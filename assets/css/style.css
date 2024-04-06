@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
     margin: 0;
     padding: 0;
@@ -40,4 +41,39 @@ header nav ul li a {
     font-size: 22px;
     font-weight: lighter;
     margin: 0 30px;
+=======
+
+/* Footer selector */
+footer {
+    background: #fce138;
+    width: 100%;
+    padding: 40px 35px;
+}
+
+/* Footer h2 selector */
+footer h2 {
+    display: inline;
+    color: #024e76;
+    font-size: 30px;
+    margin: 0;
+}
+
+/* Footer div selector */
+footer div {
+    float: right;
+    line-height: 1.5;
+    text-align: right;
+}
+
+/* Footer a element slector */
+footer a {
+    color: #024e76;
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+>>>>>>> develop
 }
